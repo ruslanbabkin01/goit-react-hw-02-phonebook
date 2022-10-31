@@ -41,8 +41,7 @@ export const GlobalStyles = css`
   }
 
   button {
-    padding: 0;
-    border: none;
+    padding: 5px;
     font: inherit;
     color: inherit;
     background-color: transparent;

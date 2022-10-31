@@ -1,4 +1,3 @@
-export * from './Profile/Profile';
-export * from './Statistics/Statistics';
-export * from './FriendList/FriendList';
-export * from './TransactionHistory/TransactionHistory';
+export * from './Filter/Filter';
+export * from './ContactList/ContactList';
+export * from './ContactForm/ContactForm.jsx';
